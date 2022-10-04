@@ -7,9 +7,11 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ebarbozadev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebarbozadev)
 
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ebarbozadev&show_icons=true&theme=tokyonight" alt="Contribuições no GitHub" align="center" height="180em" style="max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarbozadev&layout=compact" alt="Linguagens mais usadas" align="center" height="180em" style="max-width: 100%;">
+<div style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=ebarbozadev&show_icons=true&theme=tokyonight" alt="Contribuições no GitHub" align="center" height="180em">
+</div>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarbozadev&layout=compact" alt="Linguagens mais usadas" align="center" height="180em">
 </div>
 
 
