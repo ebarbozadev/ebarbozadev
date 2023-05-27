@@ -50,7 +50,7 @@ Breve descrição do projeto pessoal, destacando as tecnologias utilizadas e os 
 Visite meu [blog](https://www.meublog.com) para ler meus artigos e acompanhe minhas atualizações no [Twitter](https://www.twitter.com/[seu_twitter]). -->
 
 ## Contato
-- [Email](mailto:e.barboza@edu.unipar.br)
+- Email: e.barboza@edu.unipar.br
 - [LinkedIn](https://www.linkedin.com/in/ebarbozadev)
 - [WhatsApp](https://api.whatsapp.com/send?1=pt_BR&phone=5544999756602)
 
