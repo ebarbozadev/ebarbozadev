@@ -1,19 +1,60 @@
-### 👨‍🎓 | Emanuel: Desenvolvedor & Criador de Conteúdo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebarbozadev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebarbozadev/)
+## Sobre mim
 
-<div align="center">
+Sou um desenvolvedor trainee apaixonado por programação e tecnologia. Estou em busca de oportunidades para aprender e crescer profissionalmente na área de desenvolvimento de software. Sou dedicado, proativo e estou sempre disposto a enfrentar desafios para aprimorar minhas habilidades técnicas.
+
+## Formação Acadêmica
+
+- Análise e Desenvolvimento de Sistemas na Universidade Paranaense, 2024
+
+
+<!-- ## Experiência
+
+### [Projeto A]
+
+- Participação em um projeto acadêmico de desenvolvimento web usando [tecnologia A] e [tecnologia B].
+- Contribuição para o desenvolvimento de funcionalidades específicas, correção de bugs e testes.
+- Aprendizado sobre boas práticas de programação, controle de versão e colaboração em equipe.
+
+### [Projeto B]
+
+- Desenvolvimento de um aplicativo de gerenciamento de tarefas pessoais usando [tecnologia C].
+- Responsável pela implementação do front-end, interação com a API e otimização da interface do usuário.
+- Aprendizado sobre arquitetura de software e princípios de design responsivo. -->
+
+## Competências
+
+- Linguagens de Programação: JavaScript, Java, PHP, C#
+- Frameworks: Bootstrap
+- Bibliotecas: React.JS, Router, Axios
+- Banco de Dados: MySQL
+- Controle de Versão: Git, GitHub
+- Metodologias Ágeis: Scrum
+- Resolução de Problemas, Aprendizado Rápido, Trabalho em Equipe
+
+<!-- ## Projetos Pessoais
+
+### [Projeto Pessoal 1]
+
+![Projeto Pessoal 1](./screenshots/projeto_pessoal1.png)
+
+Breve descrição do projeto pessoal, destacando as tecnologias utilizadas e os objetivos alcançados.
+
+### [Projeto Pessoal 2]
+
+![Projeto Pessoal 2](./screenshots/projeto_pessoal2.png)
+
+Breve descrição do projeto pessoal, destacando as tecnologias utilizadas e os objetivos alcançados.
+
+## Blog e Redes Sociais
+
+Visite meu [blog](https://www.meublog.com) para ler meus artigos e acompanhe minhas atualizações no [Twitter](https://www.twitter.com/[seu_twitter]). -->
+
+## Contato
+- [Email](mailto:e.barboza@edu.unipar.br)
+- [LinkedIn](https://www.linkedin.com/in/ebarbozadev)
+- [WhatsApp](https://api.whatsapp.com/send?1=pt_BR&phone=5544999756602)
+
+<div style='display: flex; justify-content: space-between;'>
     <img src="https://github-readme-stats.vercel.app/api?username=ebarbozadev&show_icons=true&theme=tokyonight" alt="Contribuições no GitHub" height="150em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarbozadev&layout=compact" alt="Linguagens mais usadas" height="150em">
-</div>
-
-
-### 👨‍💻 | Tecnologias
-<div style="display: inline-block;"><br />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" align="center">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="HTML5" align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="HTML5" align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="HTML5" align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="HTML5" align="center">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="HTML5" align="center">
 </div>
