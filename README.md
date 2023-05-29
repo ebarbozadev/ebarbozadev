@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Sou um desenvolvedor trainee apaixonado por programação e tecnologia. Estou em busca de oportunidades para aprender e crescer profissionalmente na área de desenvolvimento de software. Sou dedicado, proativo e estou sempre disposto a enfrentar desafios para aprimorar minhas habilidades técnicas.
+Sou um desenvolvedor apaixonado por programação. Estou em busca de oportunidades para aprender e crescer profissionalmente na área de desenvolvimento de software. Sou dedicado, proativo e estou sempre disposto a enfrentar desafios para aprimorar minhas habilidades técnicas.
 
 ## Formação Acadêmica
 
