@@ -28,7 +28,7 @@ Sou um desenvolvedor trainee apaixonado por programação e tecnologia. Estou em
 - Bibliotecas: React.JS, Router, Axios
 - Banco de Dados: MySQL
 - Controle de Versão: Git, GitHub
-- Metodologias Ágeis: Scrum
+- Metodologias Ágeis: Scrum, Kanban
 - Resolução de Problemas, Aprendizado Rápido, Trabalho em Equipe
 
 <!-- ## Projetos Pessoais
