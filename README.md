@@ -23,9 +23,9 @@ Sou um desenvolvedor apaixonado por programação. Estou em busca de oportunidad
 
 ## Competências
 
-- Linguagens de Programação: JavaScript, Java, PHP, C#
+- Linguagens de Programação: JavaScript, Java, PHP, C#, Object Pascal
 - Frameworks: Bootstrap
-- Bibliotecas: React.JS, Router, Axios
+- Bibliotecas: React.JS, Router, Axios, FireBird
 - Banco de Dados: MySQL
 - Controle de Versão: Git, GitHub
 - Metodologias Ágeis: Scrum, Kanban
